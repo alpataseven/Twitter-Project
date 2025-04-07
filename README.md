@@ -58,7 +58,7 @@ python autolike.py
 
 ### 🌟 Katkı
 
-Hatalar ve öneriler için Issues bölümünü kullanın. PR'larınızı bekliyoruz!
+Hatalar ve öneriler için Issues bölümünü kullanın. PR'larınızı bekliyorum!
 
 ENG
 
@@ -118,4 +118,4 @@ python autolike.py
 
 ## 🌟 Contribution
 
-Use the Issues section to report bugs and suggestions. We welcome your PRs!
+Use the Issues section to report bugs and suggestions. I'm waiting for your PRs!
